@@ -1,13 +1,14 @@
-🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모)
-# <div align="center"> **AI 영농일지 플랫폼 : 싹SAC :seedling:**</div>
+
+# <div align="center"> **[🏆해커톤 대상]AI 영농일지 플랫폼 : 싹SAC :seedling:**</div>
 ![Image](https://github.com/user-attachments/assets/f1aca800-a39f-4afe-9263-6438b5264541)
 <br/>
 🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.
 <br/>
 📒영농일지 싹은 AI가 ☀️날씨와 📆작물 재배 일정을 고려해 그 날의 활동을 추천하고,
-<br/
+<br/>
 내가 입력한 활동을 바탕으로 🍎수확 시기를 예측하는 어플입니다.
 <br/>
+🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모)
 <br/>
 <br/>
 ## 목차
