@@ -11,7 +11,7 @@
 - **프로젝트 명**
 
 ### <span id ="2"> 팀원소개 </span>
-|<img src="https://avatars.githubusercontent.com/pppineappple" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="150" height="150"/>|<img src="" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/pppineappple" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="100" height="100"/>|<img src="" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |[**PM 신승아**](https://github.com/pppineappple)|[**FE 옥주용**](https://github.com/OckJuYong)|[**FE 현세미**](https://github.com/SemiHyeon)|[**BE 맹진영**](https://github.com/maeng555)|[**BE 최현지**](https://github.com/h0725j)|[**DE 박재원**]|
 
