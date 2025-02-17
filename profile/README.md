@@ -1,11 +1,13 @@
 # <div align="center"> **[🏆해커톤 대상] AI 영농일지 플랫폼 : 싹SAC :seedling:**</div>
 ![Image](https://github.com/user-attachments/assets/f1aca800-a39f-4afe-9263-6438b5264541)
 <br/>
-🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.
 <br/>
-📒영농일지 싹은 AI가 ☀️날씨와 📆작물 재배 일정을 고려해 그 날의 활동을 추천하고,
 <br/>
-내가 입력한 활동을 바탕으로 🍎수확 시기를 예측하는 어플입니다.
+<div align="center">🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.</div>
+<br/>
+<div align="center">📒영농일지 싹은 AI가 ☀️날씨와 📆작물 재배 일정을 고려해 그 날의 활동을 추천하고,</div>
+<br/>
+<div align="center">✏️내가 입력한 활동을 바탕으로 🍎수확 시기를 예측하는 어플입니다.</div>
 <br/>
 <br/>
 <br/>
@@ -26,8 +28,8 @@
 ### 프로젝트 소개
 🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모)
 > 한강의 '작별하지 않는다'에는 친구의 새를 구하기 위해 폭설로 고립된 마을을 찾아가는 주인공의 험난한 여정이 나옵니다.<br>
-이상기후를 통한 천재지변이 잦아지는 와중, 로컬의 생계 수단인 농업에서의 작물 수확량과 품질이 감소하고 있습니다. <br>
-이상기후에 대응하는 AI모델을 만들고, 일상에 적용하는 프로젝트입니다. <br>
+예측이 어려운 날씨로 인해 지역의 농민들은 작물 수확량과 품질 감소를 겪고 있습니다. <br>
+이번 프로젝트는 이상기후에 따른 대비책을 제공하는 AI모델을 만들고, 일상에 쉽게 적용할 수 있도록 제작했습니다.<br>
 
 ## <span id ="2"> 팀 소개 </span>
 |<img src="https://avatars.githubusercontent.com/pppineappple" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="130" height="130"/>|<img src="" width="130" height="130"/>|
