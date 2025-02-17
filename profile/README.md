@@ -1,10 +1,14 @@
 # <div align="center"> **AI 영농일지 플랫폼 : 싹 :seedling:**</div>
-## <div align="center">🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모)
+<center>🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모) </center>
 
 ![Image](https://github.com/user-attachments/assets/2607aec3-99a2-4971-8408-914193ad4993)
 <br/>
 🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.
+
+
 싹 영농일기은 AI 날씨와 작물 재배 일정을 고려해 그 날의 활동을 추천하고,
+
+
 나의 활동을 바탕으로 수확 시기를 예측하는 어플입니다.
 
 ## 목차
