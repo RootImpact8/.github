@@ -2,7 +2,6 @@
 ![Image](https://github.com/user-attachments/assets/f1aca800-a39f-4afe-9263-6438b5264541)
 <br/>
 <br/>
-<br/>
 <div align="center">🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.</div>
 <br/>
 <div align="center">📒영농일지 싹은 AI가 ☀️날씨와 📆작물 재배 일정을 고려해 그 날의 활동을 추천하고,</div>
@@ -10,13 +9,12 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
 ## 목차
 1. [프로젝트 개요](#1)
 2. [팀 소개](#2)
 3. [기술 스텍](#2)
 4. [주요 기능](#3)
-
 
 ## <span id ="1"> 프로젝트 개요 </span>
 ### 프로젝트 명 
@@ -27,9 +25,9 @@
 
 ### 프로젝트 소개
 🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모)
-> 한강의 '작별하지 않는다'에는 친구의 새를 구하기 위해 폭설로 고립된 마을을 찾아가는 주인공의 험난한 여정이 나옵니다.<br>
-예측이 어려운 날씨로 인해 지역의 농민들은 작물 수확량과 품질 감소를 겪고 있습니다. <br>
-이번 프로젝트는 이상기후에 따른 대비책을 제공하는 AI모델을 만들고, 일상에 쉽게 적용하는 솔루션을 제작하는 데에 의의를 둡니다.<br>
+> 지역의 농민은 기상 이변에 따른 작물 수확량과 품질 감소를 겪고 있습니다. <br>
+당장 지구 온난화에 따른 이상기후를 막을 수 없을지라도, 적절한 조치를 취한다면 작물 손해를 최소화할 수 있습니다.<br>
+8팀 운해는 이번 해커톤을 통해 이상기후에 따른 대비책을 제공하는 AI모델을 만들고, 일상에 쉽게 적용하는 솔루션을 제작했습니다.<br>
 
 ## <span id ="2"> 팀 소개 </span>
 |<img src="https://avatars.githubusercontent.com/pppineappple" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="130" height="130"/>|<img src="" width="130" height="130"/>|
