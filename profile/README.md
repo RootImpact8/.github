@@ -1,7 +1,10 @@
-# <div align="center">싹 틔우는 순간부터 출하까지 싹 관리하는 **AI 영농일지 싹 :seedling:**</div>
+
+# <div align="center">🥇 루트임팩트 AI 커리어 스쿨 해커톤 대상 수상작 (총상금 2000만원 규모)
+**AI 영농일지 플랫폼 : 싹 :seedling:**</div>
+
 ![Image](https://github.com/user-attachments/assets/aa543ff0-538c-4ed4-976d-a2ad8f711eba)
 <br/>
-(간단한 프로젝트 소개 문구) (2-3줄 내외)
+🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.
 
 ## 목차
 1. [프로젝트 개요](#1)
