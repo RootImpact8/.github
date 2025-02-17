@@ -50,6 +50,7 @@
 |**🤖 재배 활동 추천 AI**|**📝 영농일지 작성**|
 
 [서비스 기획 PT 자료](https://deep-rook-d58.notion.site/AI-PT-19da6bf9de47806ab83cd22c29b11e01?pvs=4)
+
 <br/>
 
 ## <span id ="4"> 구현 기능 </span>
