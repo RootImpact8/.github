@@ -1,4 +1,4 @@
-# <div align="center">재배 일정 맞춤형 관리 솔루션, **영농일지 싹 :seedling:**</div>
+# <div align="center">싹 틔우는 순간부터 출하까지 싹 관리하는 **AI 영농일지 싹 :seedling:**</div>
 ![Image](https://github.com/user-attachments/assets/aa543ff0-538c-4ed4-976d-a2ad8f711eba)
 <br/>
 (간단한 프로젝트 소개 문구) (2-3줄 내외)
