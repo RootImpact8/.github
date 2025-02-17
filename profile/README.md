@@ -16,6 +16,7 @@
 ### 개발기간 
 (2025.00.00() ~ 2025.00.00())
 ### 프로젝트 소개
+(프로젝트 소개 작성)
 
 ## <span id ="2"> 팀 소개 </span>
 |<img src="https://avatars.githubusercontent.com/pppineappple" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="130" height="130"/>|<img src="" width="130" height="130"/>|
@@ -26,6 +27,7 @@
 
 ## <span id ="4"> 주요 기능 </span>
 ### 주요 기능 설명
+
 ### 화면 구성
 (프론트 수정후 실제 ui 캡쳐)
 
