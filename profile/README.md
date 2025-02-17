@@ -49,8 +49,9 @@
 <br/>
 
 ## <span id ="4"> 주요 기능 </span>
-|**재배 활동 추천 AI**|**영농일지 Flow**|
-|<img src="https://github.com/user-attachments/assets/e70f7d50-b558-4960-9141-9ef3aaa01d44" width="700" height="370"/>|<img src="https://github.com/user-attachments/assets/fdccde10-1aac-444b-8bbc-f8be22402be4" width="700" height="370"/>|
+|<img src="https://github.com/user-attachments/assets/dea08b4c-42cc-4cf5-8ce6-efdcef92632e" width="480" height="270"/>|<img src="https://github.com/user-attachments/assets/a473dc53-22a1-4734-ad24-bb1a8206067c" width="480" height="270"/>|
+|:-:|:-:|
+|**🤖 재배 활동 추천 AI**|**📝 영농일지**|
 
 <br/>
 
