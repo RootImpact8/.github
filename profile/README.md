@@ -11,7 +11,7 @@
 
 ## <span id ="1"> 프로젝트 개요 </span>
 ### 프로젝트 명 
-<img src ="https://github.com/user-attachments/assets/a2247d3e-3007-4ff4-90d4-c601d452a6cf" width="50" height="50"> 싹
+<img src ="https://github.com/user-attachments/assets/a2247d3e-3007-4ff4-90d4-c601d452a6cf" width="30" height="30"> 싹
 
 ### 개발기간 
 (2025.00.00() ~ 2025.00.00())
