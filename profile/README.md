@@ -3,14 +3,15 @@
 - 프로젝트 소개 문구 (2-3줄 내외)
 
 ## 목차
-1. [프로젝트개요](#1)
-2. [탐원소개](#2)
+1. [프로젝트 개요](#1)
+2. 주요 기능
+3. 기술 스텍
 
 ### <span id ="1"> 프로젝트 개요 </span>
-- **개발기간** : 2025.00.00() ~ 2025.00.00()
-- **프로젝트 명**
+##### **개발기간** : 2025.00.00() ~ 2025.00.00()
+#### **프로젝트 명**
 
-### <span id ="2"> 팀원소개 </span>
+#### <span id ="2"> 팀원소개 </span>
 |<img src="https://avatars.githubusercontent.com/pppineappple" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="130" height="130"/>|<img src="" width="130" height="130"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[**PM 신승아**](https://github.com/pppineappple)|[**FE 옥주용**](https://github.com/OckJuYong)|[**FE 현세미**](https://github.com/SemiHyeon)|[**BE 맹진영**](https://github.com/maeng555)|[**BE 최현지**](https://github.com/h0725j)|[**DE 박재원**](https://github.com)|
