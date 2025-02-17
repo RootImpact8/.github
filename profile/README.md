@@ -11,6 +11,8 @@
 
 ## <span id ="1"> 프로젝트 개요 </span>
 ### 프로젝트 명 
+![KakaoTalk_20250217_154153443_01]()
+<img src ="https://github.com/user-attachments/assets/a2247d3e-3007-4ff4-90d4-c601d452a6cf" width="50" height="50"> 싹
 (로고 이미지와 같이 명 작성)
 ### 개발기간 
 (2025.00.00() ~ 2025.00.00())
