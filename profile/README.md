@@ -1,5 +1,5 @@
 # <div align="center">재배 일정 맞춤형 관리 솔루션, **영농일지 싹 :seedling:**</div>
-(프로젝트 대표 이미지)
+![Image](https://github.com/user-attachments/assets/aa543ff0-538c-4ed4-976d-a2ad8f711eba)
 <br/>
 (간단한 프로젝트 소개 문구) (2-3줄 내외)
 
