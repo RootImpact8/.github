@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/f1aca800-a39f-4afe-9263-6438b5264541)
 <br/>
 <br/>
-<div align="center">***🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.***</div>
+<div align="center">**🌱싹 틔우는 순간부터 🚚출하까지 싹으로 관리하세요.**</div>
 <br/>
 <div align="center">📒영농일지 싹은 AI가 ☀️날씨와 📆작물 재배 일정을 고려해 그 날의 활동을 추천하고,</div>
 <div align="center">✏️내가 입력한 활동을 바탕으로 🍎수확 시기를 예측하는 어플입니다.</div>
