@@ -51,7 +51,7 @@
 ## <span id ="4"> 주요 기능 </span>
 |<img src="https://github.com/user-attachments/assets/dea08b4c-42cc-4cf5-8ce6-efdcef92632e" width="480" height="270"/>|<img src="https://github.com/user-attachments/assets/a473dc53-22a1-4734-ad24-bb1a8206067c" width="480" height="270"/>|
 |:-:|:-:|
-|**🤖 재배 활동 추천 AI**|**📝 영농일지**|
+|**🤖 재배 활동 추천 AI**|**📝 영농일지 작성**|
 
 <br/>
 
@@ -71,7 +71,7 @@
 ### 📔 Diary
 |**기능**|<div align="center">**설명**</div>|
 |:-:|:-| 
-|영농 달력|내가 등록한 일지를 달 별로 모아볼 수 있습니다.|
+|작업 달력|내가 등록한 일지를 달 별로 모아볼 수 있습니다.|
 |작물 타임라인|개별 작물의 작업 일지를 모아볼 수 있습니다.|
 |일지 작성|오늘 날짜를 기본으로 해당하는 날씨가 자동으로 기입됩니다.|
 |작물 선택|일지 작성 시 재배 중인 작물 중 선택할 수 있습니다.|
