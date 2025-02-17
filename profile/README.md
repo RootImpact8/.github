@@ -58,8 +58,8 @@
 <br/>
 
 ## <span id ="3"> 서비스 기획 </span>
-![Image](https://github.com/user-attachments/assets/64943095-a139-43b8-b3cb-93a6a65ef13a)
-![Image](https://github.com/user-attachments/assets/f0f2a577-2a6c-47d9-b21b-76d9dfad9b08)
+![Image](https://github.com/user-attachments/assets/64943095-a139-43b8-b3cb-93a6a65ef13a)|![Image](https://github.com/user-attachments/assets/f0f2a577-2a6c-47d9-b21b-76d9dfad9b08)
+
 ![Image](https://github.com/user-attachments/assets/030fca00-1eea-4d2e-8025-002769440659)
 ![Image](https://github.com/user-attachments/assets/f3afe3bc-2a38-407a-87a6-bef714bf9550)
 
