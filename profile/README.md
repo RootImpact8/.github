@@ -44,14 +44,10 @@
 <br/>
 
 ## <span id ="3"> Stacks </span>
-<div align="center"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </div>
-
-<div align="center"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"> </div>
-
-
-
+<div align="center"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"> </div>
 
 ![Image](https://github.com/user-attachments/assets/491b54b0-c42c-42c1-b437-88b675ad1189)
+
 
 <br/>
 
@@ -90,7 +86,7 @@
 |:-:|:-| 
 |로그인|이메일과 비밀번호를 등록하고 내 일지를 관리할 수 있습니다.|
 |재배 작물 설정|일지를 작성할 작물을 등록할 수 있습니다.|
-|관심 작물 설정|재배 중인 작물 외에도 소식을 받아볼 작물을 등록할 수 있습니다.|
+|관심 작물 설정|재배 중인 작물 외에도 뉴스를 받아볼 작물을 등록할 수 있습니다.|
 
 <!--
 **Here are some ideas to get you started:**
