@@ -49,20 +49,38 @@
 <br/>
 
 ## <span id ="4"> 주요 기능 </span>
-### 재배 활동 추천 AI
-![Image](https://github.com/user-attachments/assets/e70f7d50-b558-4960-9141-9ef3aaa01d44)
-
-### 유저 인터뷰 기반 영농일지 Flow
-![Image](https://github.com/user-attachments/assets/fdccde10-1aac-444b-8bbc-f8be22402be4)
+|**재배 활동 추천 AI**|**영농일지 Flow**|
+|<img src="https://github.com/user-attachments/assets/e70f7d50-b558-4960-9141-9ef3aaa01d44" width="700" height="370"/>|<img src="https://github.com/user-attachments/assets/fdccde10-1aac-444b-8bbc-f8be22402be4" width="700" height="370"/>|
 
 <br/>
 
-## <span id ="3"> 서비스 기획 </span>
-![Image](https://github.com/user-attachments/assets/64943095-a139-43b8-b3cb-93a6a65ef13a)
-![Image](https://github.com/user-attachments/assets/f0f2a577-2a6c-47d9-b21b-76d9dfad9b08)
-![Image](https://github.com/user-attachments/assets/030fca00-1eea-4d2e-8025-002769440659)
-![Image](https://github.com/user-attachments/assets/f3afe3bc-2a38-407a-87a6-bef714bf9550)
+## <span id ="5"> 구현 기능 </span>
+|:---|
+오른쪽 정렬 |---:|
+가운데 정렬 |:---:|
+|:**기능**:|:**설명**:|
+|:내 지역 날씨:|:위치로 설정한 지역의 기온, 강수량, 풍속 및 기상 특보를 제공합니다.|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
 
+|:**기능**:|:**설명**:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
+
+|:**기능**:|:**설명**:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
+|::|:|
 <!--
 
 **Here are some ideas to get you started:**
