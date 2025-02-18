@@ -37,7 +37,7 @@
 <br/>
 
 ## <span id ="2"> Stacks </span>
-<div align="center"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"> </div>
+<div align="center"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/cssmodules-000000?style=for-the-badge&logo=cssmodules&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"> </div>
 
 ![Image](https://github.com/user-attachments/assets/491b54b0-c42c-42c1-b437-88b675ad1189)
 
@@ -89,7 +89,7 @@
 
 <br/>
 
-## <span id ="2"> ⛅️ 운해 팀원 소개 </span>
+## <span id ="5"> ⛅️ 운해 팀원 소개 </span>
 |<img src="https://avatars.githubusercontent.com/pppineappple" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/OckJuYong" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/SemiHyeon" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/maeng555" width="130" height="130"/>|<img src="https://avatars.githubusercontent.com/h0725j" width="130" height="130"/>|<img src="" width="130" height="130"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[**PM 신승아**](https://github.com/pppineappple)|[**FE 옥주용**](https://github.com/OckJuYong)|[**FE 현세미**](https://github.com/SemiHyeon)|[**BE 맹진영**](https://github.com/maeng555)|[**BE 최현지**](https://github.com/h0725j)|[**DE 박재원**]()|
