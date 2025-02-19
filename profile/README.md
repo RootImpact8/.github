@@ -32,7 +32,7 @@
 
 ### 루트임팩트 AI 커리어 스쿨 해커톤 🥇대상 수상작  
 > **주최** 루트임팩트 **운영** 멋쟁이사자처럼 **후원** 구글닷오알지 (총 상금 2000만원 규모) <br>
-> [해커톤 소개 링크](https://event-us.kr/aicshackathon/event/95575?utm_source=linkareer&utm_campaign=5wntqkuzzb)
+> [해커톤 성료 링크](https://www.edaily.co.kr/News/Read?newsId=03529286642072160&mediaCodeNo=257)
 
 <br/>
 
